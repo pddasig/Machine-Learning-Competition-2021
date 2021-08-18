@@ -51,11 +51,11 @@ All deadlines are at 11:59 PM UTC on the corresponding day unless otherwise note
 ### <a>Evaluation</a>
 Submissions are evaluated according to root mean squared error(RMSE) calculated from the shale volume (VSH), porosity (PHIF), and fluid saturation (SW) values of the hidden dataset.
 
-<img style="float: middle;" src="https://render.githubusercontent.com/render/math?math=RMSE = \sqrt{\frac{1}{m}\sum_{i=1}^{m}(\hat{\mathbf{y_{i}}} - \mathbf{y_{i}})^{2}}">
+<img align="center" src="https://render.githubusercontent.com/render/math?math=RMSE = \sqrt{\frac{1}{m}\sum_{i=1}^{m}(\hat{\mathbf{y_{i}}} - \mathbf{y_{i}})^{2}}">
 
 
-- Here **\hat{y_i}** is the predicted values of the true values **y_i**. Both \hat{\mathbf{y_{i}}}$ and **y_i** are vectors with 3 elements: shale volume (VSH), porosity (PHIF), and fluid saturation (SW). 
-- $m$ is sample size.
+- Here **\hat{y_i}** is the predicted values of the true values **y_i**. Both **\hat{y_i}** and **y_i** are vectors with 3 elements: shale volume (VSH), porosity (PHIF), and fluid saturation (SW). 
+- m is sample size.
 
 ### <a>Competition Rules</a>
 

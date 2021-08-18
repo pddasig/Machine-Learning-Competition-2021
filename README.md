@@ -2,6 +2,8 @@
 ## Well-log based reservoir property estimation with machine learning
 
 
+<img style="float: right;" src="image/pdda.png" alt="pdda" title="" width="300" height="100"/>
+
 - <a>Call for Registration </a>
 - <a>Sponsoring Opportunities</a>
 - <a>Contest Committee</a>
@@ -14,7 +16,6 @@
 - <a>Data Licensing</a>
 
 
-<!-- <img  src="image/pdda.png" alt="pdda" title="" width="300" height="100"/> -->
 ### <a>Call for Registration</a>
 SPWLA PDDA SIG is excited to announce its 2021 machine learning contest!
 This contest is open to all petrophysics enthusiasts. Top winning teams will be awarded prizes and invited to present at the PDDA SIG annual meeting. Please register with Lei Fu (pdda_sig@swpla.org) by submitting your team information (names, affiliations, and emails), before October 15, 2021. The dataset comes from the Equinor Volve field. A data repository is available at: https://github.com/pddasig/Machine-Learning-Competition-2021
@@ -50,9 +51,11 @@ All deadlines are at 11:59 PM UTC on the corresponding day unless otherwise note
 ### <a>Evaluation</a>
 Submissions are evaluated according to root mean squared error(RMSE) calculated from the shale volume (VSH), porosity (PHIF), and fluid saturation (SW) values of the hidden dataset.
 
-$$ RMSE = \sqrt{\frac{1}{m}\sum_{i=1}^{m}(\hat{\mathbf{y_{i}}} - \mathbf{y_{i}})^{2}} $$ 
+<img src="https://render.githubusercontent.com/render/math?math=RMSE = \sqrt{\frac{1}{m}\sum_{i=1}^{m}(\hat{\mathbf{y_{i}}} - \mathbf{y_{i}})^{2}}">
 
-- Here $\hat{\mathbf{y_{i}}}$ is the predicted values of the true values $\mathbf{y_{i}}$. Both $\hat{\mathbf{y_{i}}}$ and $\mathbf{y_{i}}$ are vectors with 3 elements: shale volume (VSH), porosity (PHIF), and fluid saturation (SW). 
+- <img src="https://latex.codecogs.com/gif.latex?\hat{\mathbf{y_{i}}}\text { Onset event at time bin } t " /> 
+
+- Here ![formula](https://render.githubusercontent.com/render/math?math=) is the predicted values of the true values $\mathbf{y_{i}}$. Both $\hat{\mathbf{y_{i}}}$ and $\mathbf{y_{i}}$ are vectors with 3 elements: shale volume (VSH), porosity (PHIF), and fluid saturation (SW). 
 - $m$ is sample size.
 
 ### <a>Competition Rules</a>

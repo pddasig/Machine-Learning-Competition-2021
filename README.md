@@ -24,7 +24,7 @@ This contest is open to all petrophysics enthusiasts. Top winning teams will be 
 [SPWLA-PDDA](https://www.spwla.org/SPWLA/Chapters_SIGs/SIGs/PDDA/PDDA.aspx) SIG is accepting sponsorship for this event to award the top winning teams. Please contact Lei Fu (pdda_sig@swpla.org) for details.
 
 ### <a>Contest Committee</a>
-Lei Fu, Chicheng Xu, Yanxiang Yu, Michael Ashby, McDonald Andy, Bin Dai
+Lei Fu, Yanxiang Yu, Chicheng Xu, Michael Ashby, McDonald Andy, Bin Dai
 
 <!-- #region -->
 ### <a>Description</a>

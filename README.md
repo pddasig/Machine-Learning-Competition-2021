@@ -2,8 +2,8 @@
 ## Well-log based reservoir property estimation with machine learning
 
 
-<img style="float: right;" src="image/pdda.png" alt="pdda" title="" width="300" height="100"/>
-
+<img style="float: left;" src="image/pdda.png" alt="pdda" title="" width="300" height="100"/>
+<!-- 
 - <a>Call for Registration </a>
 - <a>Sponsoring Opportunities</a>
 - <a>Contest Committee</a>
@@ -13,7 +13,7 @@
 - <a>Competition Rules</a>
 - <a>Prize Policy</a>
 - <a>Leaderboard</a>
-- <a>Data Licensing</a>
+- <a>Data Licensing</a> -->
 
 
 ### <a>Call for Registration</a>

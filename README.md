@@ -21,9 +21,7 @@ SPWLA PDDA SIG is excited to announce its 2021 machine learning contest!
 This contest is open to all petrophysics enthusiasts. Top winning teams will be awarded prizes and invited to present at the PDDA SIG annual meeting. Please register with Lei Fu (pdda_sig@swpla.org) by submitting your team information (names, affiliations, and emails), before October 15, 2021. The dataset comes from the Equinor Volve field. A data repository is available at: https://github.com/pddasig/Machine-Learning-Competition-2021
 
 ### <a>Sponsoring Opportunities</a>
-SPWLA PDDA SIG is accepting sponsorship for this event to award the top winning teams. Please contact Lei Fu (pdda_sig@swpla.org) for details.
-
-[SPWLA-PDDA](https://www.spwla.org/SPWLA/Chapters_SIGs/SIGs/PDDA/PDDA.aspx) 
+[SPWLA-PDDA](https://www.spwla.org/SPWLA/Chapters_SIGs/SIGs/PDDA/PDDA.aspx) SIG is accepting sponsorship for this event to award the top winning teams. Please contact Lei Fu (pdda_sig@swpla.org) for details.
 
 ### <a>Contest Committee</a>
 Lei Fu, Chicheng Xu, Yanxiang Yu, Michael Ashby, McDonald Andy, Bin Dai
@@ -38,6 +36,15 @@ The goal of this contest is to develop data-driven models to estimate reservoir 
 
 You will be provided with log data from about 10 wells from the same field together with the corresponding reservoir properties estimated by petrophysicists. You need to build a data-driven model using the provided training dataset. Following that, you will deploy the newly developed data-driven models on the test dataset to predict the reservoir properties based on the well log data. 
 
+### <a>Evaluation</a>
+Submissions are evaluated according to root mean squared error(RMSE) calculated from the shale volume (VSH), porosity (PHIF), and fluid saturation (SW) values of the hidden dataset.
+
+<img align="center" src="https://render.githubusercontent.com/render/math?math=RMSE = \sqrt{\frac{1}{m}\sum_{i=1}^{m}(\hat{\mathbf{y_{i}}} - \mathbf{y_{i}})^{2}}">
+
+
+- Here **\hat{y_i}** is the predicted values of the true values **y_i**. Both **\hat{y_i}** and **y_i** are vectors with 3 elements: shale volume (VSH), porosity (PHIF), and fluid saturation (SW). 
+- m is sample size.
+
 ### <a>Timeline</a>
 
 - __October 1, 2021__ - Competition starts. 
@@ -47,15 +54,6 @@ You will be provided with log data from about 10 wells from the same field toget
 
 
 All deadlines are at 11:59 PM UTC on the corresponding day unless otherwise noted. The competition organizers reserve the right to update the contest timeline if they deem it necessary.
-
-### <a>Evaluation</a>
-Submissions are evaluated according to root mean squared error(RMSE) calculated from the shale volume (VSH), porosity (PHIF), and fluid saturation (SW) values of the hidden dataset.
-
-<img align="center" src="https://render.githubusercontent.com/render/math?math=RMSE = \sqrt{\frac{1}{m}\sum_{i=1}^{m}(\hat{\mathbf{y_{i}}} - \mathbf{y_{i}})^{2}}">
-
-
-- Here **\hat{y_i}** is the predicted values of the true values **y_i**. Both **\hat{y_i}** and **y_i** are vectors with 3 elements: shale volume (VSH), porosity (PHIF), and fluid saturation (SW). 
-- m is sample size.
 
 ### <a>Competition Rules</a>
 

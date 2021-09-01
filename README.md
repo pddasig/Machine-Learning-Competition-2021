@@ -96,3 +96,8 @@ DATA ACCESS AND USE: Creative Commons Attribution-NonCommercial-ShareAlike licen
 ENTRY IN THIS COMPETITION CONSTITUTES YOUR ACCEPTANCE OF THESE OFFICIAL COMPETITION RULES.
 
 The Competition named above is a skills-based competition to promote and further the field of data science. You must submit your registration to pdda_sig@spwla.org to enter. Your competition submissions ("Submissions") must conform to the requirements stated on the Competition Website. Your Submissions will be scored based on the evaluation metric described on the Competition Website. Subject to compliance with the Competition Rules, Prizes, if any, will be awarded to participants with the best scores, based on the merits of the data science models submitted. Check the competition website for the complete Competition Rules.
+
+
+### SPWLA PDDA SIG Contest Committee:
+Lei Fu, Yanxiang Yu, Chicheng Xu, Andy McDonald,  Michael Ashby.
+

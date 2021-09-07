@@ -18,7 +18,7 @@
 
 ### <a>Call for Registration</a>
 SPWLA PDDA SIG is excited to announce its 2021 machine learning contest!
-This contest is open to all petrophysics enthusiasts. Top winning teams will be awarded prizes and invited to present at the PDDA SIG annual meeting. Please register with Lei Fu (pdda_sig@spwla.org) by submitting your team information (names, affiliations, and emails), before October 15, 2021. The dataset comes from the Equinor Volve field. A data repository is available at: https://github.com/pddasig/Machine-Learning-Competition-2021
+This contest is open to all petrophysics enthusiasts. Top winning teams will be awarded prizes and invited to present at the PDDA SIG annual meeting. Please register with Lei Fu (pdda_sig@spwla.org) by submitting your team information (team name, member names, affiliations, and emails), before October 15, 2021. The dataset comes from the Equinor Volve field. A data repository is available at: https://github.com/pddasig/Machine-Learning-Competition-2021
 
 ### <a>Sponsoring Opportunities</a>
 [SPWLA-PDDA](https://www.spwla.org/SPWLA/Chapters_SIGs/SIGs/PDDA/PDDA.aspx) SIG is accepting sponsorship for this event to award the top winning teams. Please contact Lei Fu (pdda_sig@spwla.org) for details.

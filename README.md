@@ -51,7 +51,7 @@ Submissions are evaluated according to root mean squared error(RMSE) calculated 
 - __November 1, 2021__ - Competition starts and data releases on github. 
 - __February 1, 2022__ - Submission deadline. 
 - __March 1, 2022__ - Announce winners.
-- __3rd week of March 2022__ - Award ceremony and presentations in the special session of the SPWLA Spring Topical Conference - Petrophysical Machine Learning.
+- __March 23/24, 2022__ - Award ceremony and presentations in the special session of the SPWLA Spring Topical Conference - Petrophysical Machine Learning.
 
 All deadlines are at 11:59 PM UTC on the corresponding day unless otherwise noted. The competition organizers reserve the right to update the contest timeline if they deem it necessary.
 

@@ -47,7 +47,7 @@ Submissions are evaluated according to root mean squared error(RMSE) calculated 
 
 ### <a>Timeline</a>
 
-- __October 15, 2021__ - Registration deadline. You must email Lei Fu (pdda_sig@spwla.org) with team information (names, affiliations, and emails) before this date in order to compete.
+- __October 15, 2021__ - Registration deadline. You must email Lei Fu (pdda_sig@spwla.org) with team information (team name, member names, affiliations, and emails) before this date in order to compete.
 - __November 1, 2021__ - Competition starts and data releases on github. 
 - __February 1, 2022__ - Submission deadline. 
 - __March 1, 2022__ - Announce winners.

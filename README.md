@@ -50,7 +50,7 @@ Submissions are evaluated according to root mean squared error(RMSE) calculated 
 - __October 15, 2021__ - Registration deadline. You must email Lei Fu (pdda_sig@spwla.org) with team information (names, affiliations, and emails) before this date in order to compete.
 - __November 1, 2021__ - Competition starts. 
 - __February 1, 2022__ - Submission deadline. 
-- __March 1, 2022__ - Announce winners and award prizes.
+- __March 1, 2022__ - Announce winners.
 - __3rd week of March 2022__ - Award ceremony and presentations in the special session of the SPWLA Spring Topical Conference.
 
 All deadlines are at 11:59 PM UTC on the corresponding day unless otherwise noted. The competition organizers reserve the right to update the contest timeline if they deem it necessary.

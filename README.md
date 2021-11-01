@@ -60,7 +60,7 @@ All deadlines are at 11:59 PM UTC on the corresponding day unless otherwise note
 1. Contestant can be an individual or a group with the maximum size of 4.
 2. The contest focuses on data-driven methods, the use of additional data or petrophysical equations is not allowed.
 3. Privately sharing code or data outside of teams is not permitted. However, it's okay to share code if made available to all participants on the competition Github repository via submitting issues or pull requests. 
-4. A contestant will submit the estimated reservoir properties for testing wells as separate .csv files.
+4. A contestant will submit the estimated reservoir properties for testing wells as separate .csv files. Each team can have 3 submissions. The best score among the 3 submissions will be ranked. Email your submission to pdda_sig@spwla.org with title: Submission {team_name} {num_submit}
 5. A contestant will submit the source code and a brief report documenting the accuracy achieved in a few plots.
 6. The judges will review the source code.
 7. The performance of the model will be quantified in terms of root mean square error (RMSE).

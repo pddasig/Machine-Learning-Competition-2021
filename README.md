@@ -77,7 +77,7 @@ All deadlines are at 11:59 PM UTC on the corresponding day unless otherwise note
 
 Top 5 winning teams will be awarded with prizes(NOT in cash).
 
-Note: The winners will additionally be required to provide a detailed description of their method in order to claim the prize (minimum of 2 pages double-column) by December 15, 2021, which is two weeks after the competition has concluded.
+Note: The winners will additionally be required to provide a detailed description of their method in order to claim the prize (minimum of 2 pages double-column) by February 15, 2022, which is two weeks after the competition has concluded.
 
 Novel and practical algorithms will be recommended for a submission to the a SPWLA special issue by PDDA or a journal paper. 
 <!-- #endregion -->

@@ -21,7 +21,7 @@ Please use the team leader's email to register. The link was sent in the email.
 
 Please note that:
 1. Only one user can register for the competition per team. 
-2. The user name has to be exactly the same as the team name. If space is not allowed, please replace space with underscore '_'.
+2. __The user name has to be exactly the same as the team name__. If space is not allowed, please replace space with underscore '_'.
 3. The submission file must be a zip file with whatever name. __However, the name of the csv file inside the zip has to be "submission.csv"__. (the csv file should be in the same format as “example_1.csv” file on the GitHub page in terms of number of columns and rows, as well as exactly the same column names) 
 4. The submission status might need a couple minutes to be updated, don't refresh the page too often.
 5. The user needs to manually submit their best results to the leaderboard. Click "Participate", " Submit / View Results", click the "+" symbol in your submission. See the red circles in the attached figure.

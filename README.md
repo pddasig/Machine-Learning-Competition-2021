@@ -16,12 +16,18 @@
 - <a>Data Licensing</a> -->
 
 
-### <a>Call for Registration</a>
-SPWLA PDDA SIG is excited to announce its 2021 machine learning contest!
-This contest is open to all petrophysics enthusiasts. Top winning teams will be awarded prizes and invited to present at the PDDA SIG annual meeting. Please register with Lei Fu (pdda_sig@spwla.org) by submitting your team information (team name, member names, affiliations, and emails), before October 15, 2021. The dataset comes from the Equinor Volve field. A data repository is available at: https://github.com/pddasig/Machine-Learning-Competition-2021
+### <a>Scoring website</a>
+Please use the team leader's email to register. The link was sent in the email.
 
-### <a>Sponsoring Opportunities</a>
-[SPWLA-PDDA](https://www.spwla.org/SPWLA/Chapters_SIGs/SIGs/PDDA/PDDA.aspx) SIG is accepting sponsorship for this event to award the top winning teams. Please contact Lei Fu (pdda_sig@spwla.org) for details.
+Please note that:
+1. Only one user can register for the competition per team. 
+2. The user name has to be exactly the same as the team name.
+3. The submission file must be a zip file with whatever name. __However, the name of the csv file inside the zip has to be "submission.csv"__. (the csv file should be in the same format as “example_1.csv” file on the GitHub page in terms of number of columns and rows, as well as exactly the same column names) 
+4. The submission status might need a couple minutes to be updated, don't refresh the page too often.
+5. The user needs to manually submit their best results to the leaderboard. Click "Participate", " Submit / View Results", click the "+" symbol in your submission. See the red circles in the attached figure.
+6. Please use version-control properly, as we need to validate your code and reproduce the results of the final submitted score in order to rank your team in the final scoreboard.  
+7. Max submissions per day: 3
+8. Max submissions total: 100
 
 ### <a>Contest Committee</a>
 Lei Fu, Yanxiang Yu, Chicheng Xu, Michael Ashby, McDonald Andy, Bin Dai
@@ -60,7 +66,7 @@ All deadlines are at 11:59 PM UTC on the corresponding day unless otherwise note
 1. Contestant can be an individual or a group with the maximum size of 4.
 2. The contest focuses on data-driven methods, the use of additional data or petrophysical equations is not allowed.
 3. Privately sharing code or data outside of teams is not permitted. However, it's okay to share code if made available to all participants on the competition Github repository via submitting issues or pull requests. 
-4. A contestant will submit the estimated reservoir properties for testing wells as separate .csv files. Each team can have 3 submissions. The best score among the 3 submissions will be ranked. Email your submission to pdda_sig@spwla.org with title: Submission {team_name} {num_submit}
+4. A contestant will submit the estimated reservoir properties for testing wells.
 5. A contestant will submit the source code and a brief report documenting the accuracy achieved in a few plots.
 6. The judges will review the source code.
 7. The performance of the model will be quantified in terms of root mean square error (RMSE).

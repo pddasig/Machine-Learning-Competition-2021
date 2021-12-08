@@ -43,7 +43,7 @@ The goal of this contest is to develop data-driven models to estimate reservoir 
 You will be provided with log data from about 10 wells from the same field together with the corresponding reservoir properties estimated by petrophysicists. You need to build a data-driven model using the provided training dataset. Following that, you will deploy the newly developed data-driven models on the test dataset to predict the reservoir properties based on the well log data. 
 
 ### <a>Evaluation</a>
-Submissions are evaluated according to root mean squared error(RMSE) calculated from the shale volume (VSH), porosity (PHIF), and water saturation (SW) values of the hidden dataset.
+Submissions are evaluated according to root mean squared error(RMSE) calculated from the shale volume (VSH), porosity (PHIF), and water saturation (SW) values of the hidden dataset. The value of the hidden dataset is between 0 and 1.
 
 <img align="center" src="https://render.githubusercontent.com/render/math?math=RMSE = \sqrt{\frac{1}{m}\sum_{i=1}^{m}(\hat{\mathbf{y_{i}}} - \mathbf{y_{i}})^{2}}">
 

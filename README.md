@@ -1,15 +1,6 @@
 # 2021 SPWLA PDDA Machine Learning Competition
 ## Well-log based reservoir property estimation with machine learning
 
-### Winner:
-|           | Winner Team      | 
-|-----------|-------------|
-| ***1st Place*** | **UTFE**        |
-| ***2nd Place*** | **MoLPhy**       |
-| ***3rd Place*** | **Tomsk** |
-| ***4th Place*** | **Atwah_Analytics** |                                                    |
-| ***5th Place*** | **Jaehyuk Lee**    |
-
 <img style="float: left;" src="image/pdda.png" alt="pdda" title="" width="300" height="100"/>
 <!-- 
 - <a>Call for Registration </a>
@@ -23,6 +14,14 @@
 - <a>Leaderboard</a>
 - <a>Data Licensing</a> -->
 
+### Winner:
+|           | Winner Team      | 
+|-----------|-------------|
+| ***1st Place*** | **UTFE**        |
+| ***2nd Place*** | **MoLPhy**       |
+| ***3rd Place*** | **Tomsk** |
+| ***4th Place*** | **Atwah_Analytics** |                                                    |
+| ***5th Place*** | **Jaehyuk Lee**    |
 
 ### <a>Scoring website</a>
 Please use the team leader's email to register. The link was sent in the email.

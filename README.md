@@ -16,7 +16,7 @@
 
 ### Winner:
 |           | Winner Team      | Contact |
-|-----------|-------------|
+|-----------|-------------|-----------|
 | ***1st Place*** | **UTFE**        | Wen Pan <wenpan@utexas.edu> ||
 |                 |                 | Tianqi Deng <tianqizx@gmail.com> |
 | ***2nd Place*** | **MoLPhy**       | István Szabó <ISzabo3@MOL.hu> ||

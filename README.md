@@ -29,7 +29,7 @@
 ### Leaderboard
 | Rank | Team Name              | Best Score | Best Solution        | Notebook                                                                                                                                                         |
 |:----:|------------------------|------------|----------------------|------------|
-|   1  | UTFE                   |  0.0525    | Linear Regression    | [Notebook](https://github.com/pddasig/Machine-Learning-Competition-2021/solutions/UTFE_WELL_ADAPTION.ipynb) |
+|   1  | UTFE                   |  0.0525    | Linear Regression    | [Notebook](https://github.com/pddasig/Machine-Learning-Competition-2021/tree/main/solutions/UTFE_WELL_ADAPTION.ipynb) |
 
 
 ### <a>Scoring website</a>

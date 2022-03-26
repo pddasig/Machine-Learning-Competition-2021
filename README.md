@@ -16,7 +16,7 @@
 
 ### Winner:
 |           | Winner Team      | Contact |
-|-----------|-------------|
+|-----------|-------------|-----------|
 | ***1st Place*** | **UTFE**        | Wen Pan <wenpan@utexas.edu> ||
 |                 |                 | Tianqi Deng <tianqizx@gmail.com> |
 | ***2nd Place*** | **MoLPhy**       | István Szabó <ISzabo3@MOL.hu> ||
@@ -29,7 +29,7 @@
 ### Leaderboard
 | Rank | Team Name              | Best Score | Best Solution        | Notebook                                                                                                                                                         |
 |:----:|------------------------|------------|----------------------|------------|
-|   1  | UTFE                   |  0.0525    | Linear Regression    | [Notebook](https://github.com/pddasig/Machine-Learning-Competition-2021/solutions/UTFE_WELL_ADAPTION.ipynb) |
+|   1  | UTFE                   |  0.0525    | Linear Regression    | [Notebook](https://github.com/pddasig/Machine-Learning-Competition-2021/tree/main/solutions/UTFE_WELL_ADAPTION.ipynb) |
 
 
 ### <a>Scoring website</a>

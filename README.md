@@ -16,15 +16,17 @@
 
 ### Winner:
 |           | Winner Team      | Contact |
-|-----------|-------------|-----------|
-| ***1st Place*** | **UTFE**        | Wen Pan <wenpan@utexas.edu> ||
-|                 |                 | Tianqi Deng <tianqizx@gmail.com> |
-| ***2nd Place*** | **MoLPhy**       | István Szabó <ISzabo3@MOL.hu> ||
-| | | Pál Hanzelik <hanzelik.pal@gmail.com> ||
-| | | Csilla Kalmár <kalmarcsilla@gmail.com> ||
-| ***3rd Place*** | **Tomsk** | |
-| ***4th Place*** | **Atwah_Analytics** | Saleh Alatwah <saleh.z.atwah@gmail.com> |
-| ***5th Place*** | **Jaehyuk Lee**    | Jaehyuk Lee <Jaehyuk.Lee@bakerhughes.com> |
+-----------|-------------|-----------|
+ ***1st Place*** | **UTFE**        | Wen Pan <wenpan@utexas.edu> |
+                 |                 | Tianqi Deng <tianqizx@gmail.com> |
+
+ ***2nd Place*** | **MoLPhy**       | István Szabó <ISzabo3@MOL.hu> |
+ | | Pál Hanzelik <hanzelik.pal@gmail.com> |
+ | | Csilla Kalmár <kalmarcsilla@gmail.com> |
+
+ ***3rd Place*** | **Tomsk** | 
+ ***4th Place*** | **Atwah_Analytics** | Saleh Alatwah <saleh.z.atwah@gmail.com> |
+ ***5th Place*** | **Jaehyuk Lee**    | Jaehyuk Lee <Jaehyuk.Lee@bakerhughes.com> |
 
 ### Leaderboard
 | Rank | Team Name              | Best Score | Best Solution        | Notebook                                                                                                                                                         |

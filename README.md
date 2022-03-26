@@ -15,13 +15,22 @@
 - <a>Data Licensing</a> -->
 
 ### Winner:
-|           | Winner Team      | 
+|           | Winner Team      | Contact |
 |-----------|-------------|
-| ***1st Place*** | **UTFE**        |
-| ***2nd Place*** | **MoLPhy**       |
-| ***3rd Place*** | **Tomsk** |
-| ***4th Place*** | **Atwah_Analytics** |                                                    |
-| ***5th Place*** | **Jaehyuk Lee**    |
+| ***1st Place*** | **UTFE**        | Wen Pan <wenpan@utexas.edu> ||
+|                 |                 | Tianqi Deng <tianqizx@gmail.com> |
+| ***2nd Place*** | **MoLPhy**       | István Szabó <ISzabo3@MOL.hu> ||
+| | | Pál Hanzelik <hanzelik.pal@gmail.com> ||
+| | | Csilla Kalmár <kalmarcsilla@gmail.com> ||
+| ***3rd Place*** | **Tomsk** | |
+| ***4th Place*** | **Atwah_Analytics** | Saleh Alatwah <saleh.z.atwah@gmail.com> |
+| ***5th Place*** | **Jaehyuk Lee**    | Jaehyuk Lee <Jaehyuk.Lee@bakerhughes.com> |
+
+### Leaderboard
+| Rank | Team Name              | Best Score | Best Solution        | Notebook                                                                                                                                                         |
+|:----:|------------------------|------------|----------------------|------------|
+|   1  | UTFE                   |  0.0525    | Linear Regression    | [Notebook](https://github.com/pddasig/Machine-Learning-Competition-2021/solutions/UTFE_WELL_ADAPTION.ipynb) |
+
 
 ### <a>Scoring website</a>
 Please use the team leader's email to register. The link was sent in the email.
@@ -94,12 +103,6 @@ Note: The winners will additionally be required to provide a detailed descriptio
 
 Novel and practical algorithms will be recommended for a submission to the a SPWLA special issue by PDDA or a journal paper. 
 <!-- #endregion -->
-
-### Leaderboard
-| Rank | Team Name              | Best Score | Best Solution        | Notebook                                                                                                                                                         |
-|:----:|------------------------|------------|----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|   1  | PDDA                   |    |        | [Notebook](https://github.com/pddasig/Machine-Learning-Competition-2021) 
-
 
 ### <a>Data Licensing</a>
 The data comes from VOLVE dataset owned by Equinor. 

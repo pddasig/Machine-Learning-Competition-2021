@@ -18,11 +18,11 @@
 |           | Winner Team      | Contact |
 -----------|-------------|-----------|
  ***1st Place*** | **UTFE**        | Wen Pan <wenpan@utexas.edu> |
-                 |                 | Tianqi Deng <tianqizx@gmail.com> |
+|                |                 | Tianqi Deng <tianqizx@gmail.com> |
 
  ***2nd Place*** | **MoLPhy**       | István Szabó <ISzabo3@MOL.hu> |
- | | Pál Hanzelik <hanzelik.pal@gmail.com> |
- | | Csilla Kalmár <kalmarcsilla@gmail.com> |
+| | | Pál Hanzelik <hanzelik.pal@gmail.com> |
+| | | Csilla Kalmár <kalmarcsilla@gmail.com> |
 
  ***3rd Place*** | **Tomsk** | 
  ***4th Place*** | **Atwah_Analytics** | Saleh Alatwah <saleh.z.atwah@gmail.com> |

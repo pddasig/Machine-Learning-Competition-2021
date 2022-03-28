@@ -30,6 +30,10 @@
 | Rank | Team Name              | Best Score | Best Solution        | Notebook                                                                                                                                                         |
 |:----:|------------------------|------------|----------------------|------------|
 |   1  | UTFE                   |  0.0525    | Linear Regression    | [Notebook](https://github.com/pddasig/Machine-Learning-Competition-2021/tree/main/solutions/UTFE_WELL_ADAPTION.ipynb) |
+|   2  | MoLPhy                 |  0.0602    | Ensemble model  | [Notebook](https://github.com/pddasig/Machine-Learning-Competition-2021/tree/main/solutions/MoLPhy_PDDA_2021.ipynb) |
+|   3  | Tomsk                 |  0.0634     | Neural network  | [Notebook](https://github.com/pddasig/Machine-Learning-Competition-2021/tree/main/solutions/Tomsk_Notebook.zip) |
+|   4  | Atwah_Analytics       |  0.0667     | ExtraTree and Catboost regression  | [Notebook](https://github.com/pddasig/Machine-Learning-Competition-2021/tree/main/solutions/SPWLA_submission_AtwahAnalytics.ipynb) |
+|   5  | Jaehyuk Lee           |  0.0775     | LightGBM  | [Notebook](https://github.com/pddasig/Machine-Learning-Competition-2021/tree/main/solutions/Jaehyuk_Lee_PDDA_2021_ML_competition_team_Jaehyuk_Lee.ipynb) |
 
 
 ### <a>Scoring website</a>

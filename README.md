@@ -34,7 +34,49 @@
 |   3  | Tomsk                 |  0.0634     | Neural network  | [Notebook](https://github.com/pddasig/Machine-Learning-Competition-2021/tree/main/solutions/Tomsk_Notebook.zip) |
 |   4  | Atwah_Analytics       |  0.0667     | ExtraTree and Catboost regression  | [Notebook](https://github.com/pddasig/Machine-Learning-Competition-2021/tree/main/solutions/SPWLA_submission_AtwahAnalytics.ipynb) |
 |   5  | Jaehyuk Lee           |  0.0775     | LightGBM  | [Notebook](https://github.com/pddasig/Machine-Learning-Competition-2021/tree/main/solutions/Jaehyuk_Lee_PDDA_2021_ML_competition_team_Jaehyuk_Lee.ipynb) |
-
+|   6  | curioso       | 0.0833 | Neural network | https://github.com/pddasig/Machine-Learning-Competition-2021/tree/main/solutions/curioso_Tutorial-V15-submit.ipynb |
+|   7  | GGAIS         | 0.0975 | XGBoost | https://github.com/pddasig/Machine-Learning-Competition-2021/tree/main/solutions/GGAIS.zip |
+|   8  | Iron486       | 0.0982 | Neural network | https://github.com/pddasig/Machine-Learning-Competition-2021/tree/main/solutions/Iron486_1.ipynb |
+|   9  | VE4F          | 0.1006 | Regression boosted trees | https://github.com/pddasig/Machine-Learning-Competition-2021/tree/main/solutions/VE4F.zip |
+|   10 | dirtycats     | 0.1021 | Gradient boosting | https://github.com/pddasig/Machine-Learning-Competition-2021/tree/main/solutions/Dirtycats.zip |
+|   11 | DeepPlus      | 0.1053 | LightGBM | https://github.com/pddasig/Machine-Learning-Competition-2021/tree/main/solutions/DeepPlus.ipynb |
+|   12 | Geolatinas    | 0.1250 | Artificial neural network | https://github.com/pddasig/Machine-Learning-Competition-2021/tree/main/solutions/GeoLatinas_solution.ipynb |
+|   13 | Geo_ML        | 0.13071 | CatBoost | https://github.com/pddasig/Machine-Learning-Competition-2021/tree/main/solutions/Geo_ML_2.zip |
+|   14 | Team_Zotrex   | 0.3773 | Multilayer perceptron (MLP) | https://github.com/pddasig/Machine-Learning-Competition-2021/tree/main/solutions/ |
+| | | | |
+|      | BroodingPixel | 0.0751 |  |  |
+|      | GeoData       | 0.0779 |  |  |
+|      | Emerson_BRASAR | 0.0782 |  |  |
+|      | white_hats    | 0.0826 |  |  |
+|      | PetroVirago   | 0.0830 |  |  |
+|      | ThePandas     | 0.0839 |  |  |
+|      | CUP_AI_Hogwarts | 0.0856 |  |  |
+|      | BraveTeam       | 0.0920 |  |  |
+|      | ML_developers_2022 | 0.0935 |  |  |
+|      | CUP_AI_Bamboo | 0.0940 |  |  |
+|      | PetroMachine  | 0.0942 |  |  |
+|      | MachineLearningWhileDrilling | 0.0958 |  |  |
+|      | Moyu          | 0.0961 |  |  |
+|      | Lowest_RMSE   | 0.0977 |  |  |
+|      | UESTC_BG      | 0.0988 |  |  |
+|      | LEARNERS      | 0.0997 |  |  |
+|      | Rocky-AI      | 0.1003 |  |  |
+|      | Cup_Melon_Eaters | 0.1007 |  |  |
+|      | EarthAnalyst  | 0.1008 |  |  |
+|      | BHKU          | 0.1020 |  |  |
+|      | Schooners     | 0.1025 |  |  |
+|      | OxyPetroML    | 0.1030 |  |  |
+|      | I.DesRochesBot	| 0.1062 |  |  |
+|      | Bigdatalogging | 0.1089 |  |  |
+|      | ProbePetrophysics | 0.1131 |  |  |
+|      | Fourieous_Transformers | 0.1155 |  |  |
+|      | North    | 0.1167 |  |  |
+|      | ton_osk118    | 0.1172 |  |  |
+|      | AI logging team | 0.1174 |  |  |
+|      | outlier_detectives | 0.1175 |  |  |
+|      | YYDS | 0.1326 |  |  |
+|      | Quantum Energy | 0.2134 |  |  |
+|      | Gen_Zheng_Miao_Hong_Team | 0.3149 |  |  |
 
 ### <a>Scoring website</a>
 Please use the team leader's email to register. The link was sent in the email.

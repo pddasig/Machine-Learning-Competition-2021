@@ -40,7 +40,7 @@
 |   9  | VE4F          | 0.1006 | Regression boosted trees | [Notebook](https://github.com/pddasig/Machine-Learning-Competition-2021/tree/main/solutions/VE4F.zip) |
 |   10 | dirtycats     | 0.1021 | Gradient boosting | [Notebook](https://github.com/pddasig/Machine-Learning-Competition-2021/tree/main/solutions/Dirtycats.zip) |
 |   11 | DeepPlus      | 0.1053 | LightGBM | [Notebook](https://github.com/pddasig/Machine-Learning-Competition-2021/tree/main/solutions/DeepPlus.ipynb) |
-|   __12 | PDDA (Benchmark) | 0.11718 | Random Forest__ | [SPWLA_2021_ML_Tutorial.ipynb](https://github.com/pddasig/Machine-Learning-Competition-2021/blob/main/SPWLA_2021_ML_Tutorial.ipynb) |
+|   12 | PDDA (Benchmark) | 0.11718 | Random Forest | [SPWLA_2021_ML_Tutorial.ipynb](https://github.com/pddasig/Machine-Learning-Competition-2021/blob/main/SPWLA_2021_ML_Tutorial.ipynb) |
 |   13 | Geolatinas    | 0.1250 | Artificial neural network | [Notebook](https://github.com/pddasig/Machine-Learning-Competition-2021/tree/main/solutions/GeoLatinas_solution.ipynb) |
 |   14 | Geo_ML        | 0.13071 | CatBoost | [Notebook](https://github.com/pddasig/Machine-Learning-Competition-2021/tree/main/solutions/Geo_ML_2.zip) |
 |   15 | Team_Zotrex   | 0.3773 | Multilayer perceptron (MLP) |  |

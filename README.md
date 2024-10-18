@@ -14,6 +14,27 @@
 - <a>Leaderboard</a>
 - <a>Data Licensing</a> -->
 
+## Citation
+
+If you are using this in your scientific work, we would appreciate citations to the following Petrophysics paper.
+[Well-Log-Based Reservoir Property Estimation With Machine Learning: A Contest Summary](https://onepetro.org/petrophysics/article-abstract/65/01/108/540802)
+
+Bibtex entry:
+```python
+@article{fu2024well,
+  title={Well-Log-Based Reservoir Property Estimation With Machine Learning: A Contest Summary},
+  author={Fu, Lei and Yu, Yanxiang and Xu, Chicheng and Ashby, Michael and McDonald, Andrew and Pan, Wen and Deng, Tianqi and Szab{\'o}, Istv{\'a}n and Hanzelik, P{\'a}l P and Kalm{\'a}r, Csilla and others},
+  journal={Petrophysics},
+  volume={65},
+  number={01},
+  pages={108--127},
+  year={2024},
+  publisher={SPWLA}
+}
+```
+
+https://onepetro.org/petrophysics/article/65/01/108/540802/Well-Log-Based-Reservoir-Property-Estimation-With
+
 ### Winner:
 |           | Winner Team      | Contact |
 |-----------|-------------|-----------|

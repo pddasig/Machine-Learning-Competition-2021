@@ -1,22 +1,8 @@
 # 2021 SPWLA PDDA Machine Learning Competition
-## Well-log based reservoir property estimation with machine learning
-
-<img style="float: left;" src="image/pdda.png" alt="pdda" title="" width="300" height="100"/>
-<!-- 
-- <a>Call for Registration </a>
-- <a>Sponsoring Opportunities</a>
-- <a>Contest Committee</a>
-- <a>Description</a>
-- <a>Evaluation</a>
-- <a>Timeline</a>
-- <a>Competition Rules</a>
-- <a>Prize Policy</a>
-- <a>Leaderboard</a>
-- <a>Data Licensing</a> -->
 
 ## Citation
 
-If you are using this in your scientific work, we would appreciate citations to the following Petrophysics paper.
+If you find this work helpful, please consider citing the following paper:
 
 [Well-Log-Based Reservoir Property Estimation With Machine Learning: A Contest Summary](https://onepetro.org/petrophysics/article-abstract/65/01/108/540802)
 
@@ -34,7 +20,20 @@ Bibtex entry:
 }
 ```
 
-https://onepetro.org/petrophysics/article/65/01/108/540802/Well-Log-Based-Reservoir-Property-Estimation-With
+## Well-log based reservoir property estimation with machine learning
+
+<img style="float: left;" src="image/pdda.png" alt="pdda" title="" width="300" height="100"/>
+<!-- 
+- <a>Call for Registration </a>
+- <a>Sponsoring Opportunities</a>
+- <a>Contest Committee</a>
+- <a>Description</a>
+- <a>Evaluation</a>
+- <a>Timeline</a>
+- <a>Competition Rules</a>
+- <a>Prize Policy</a>
+- <a>Leaderboard</a>
+- <a>Data Licensing</a> -->
 
 ### Winner:
 |           | Winner Team      | Contact |

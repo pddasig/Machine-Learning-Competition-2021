@@ -17,6 +17,7 @@
 ## Citation
 
 If you are using this in your scientific work, we would appreciate citations to the following Petrophysics paper.
+
 [Well-Log-Based Reservoir Property Estimation With Machine Learning: A Contest Summary](https://onepetro.org/petrophysics/article-abstract/65/01/108/540802)
 
 Bibtex entry:

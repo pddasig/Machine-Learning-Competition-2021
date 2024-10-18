@@ -4,7 +4,7 @@
 
 If you find this work helpful, please consider citing the following paper:
 
-[Well-Log-Based Reservoir Property Estimation With Machine Learning: A Contest Summary](https://onepetro.org/petrophysics/article-abstract/65/01/108/540802)
+[Fu, L., Yu, Y., Xu, C., Ashby, M., McDonald, A., Pan, W., ... & Lee, J. (2024). Well-Log-Based Reservoir Property Estimation With Machine Learning: A Contest Summary. Petrophysics, 65(01), 108-127.](https://onepetro.org/petrophysics/article-abstract/65/01/108/540802)
 
 [GitHub Download Link](https://github.com/pddasig/Machine-Learning-Competition-2021/blob/main/Well-Log-Based%20Reservoir%20Property%20Estimation%20with%20Machine%20Learning.pdf)
 
